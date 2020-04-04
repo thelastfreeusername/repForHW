@@ -1,2 +1,2 @@
 # repForHW
-otus training
+Repository for homeworks.
